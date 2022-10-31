@@ -1,0 +1,58 @@
+
+{
+  "users": [
+    {
+      "username": "sliwa",
+      "email": "khenissi.selwa@yahoo.fr",
+      "firstName": "salwa",
+      "lastName": "khenissi",
+      "password": "khenissi09",
+      "id": 1
+    }, 
+    {
+      "username": "sliwaa",
+      "email": "khenissiii.selwa@yahoo.fr",
+      "firstName": "salwa",
+      "lastName": "khenissii",
+      "password": "khenissii09",
+      "id": 2
+    },
+    {
+      "username": "sliwaaa",
+      "email": "khenissii.selwa@yahoo.fr",
+      "firstName": "salwa",
+      "lastName": "khenissiii",
+      "password": "khenissiii09",
+      "id": 3
+    }
+  ],
+
+   
+  "products": [
+    {
+      "title": "VIDÉO PROJECTEUR XIAOMI MI SMART PROJECTOR ",
+      "price":"1559.000" ,
+      "image" : "https://zupimages.net/up/22/23/6dva.jpeg" ,
+      "id": 1
+    },
+    
+    {
+      "title": "VIDÉO PROJECTEUR XIAOMI MI SMART PROJECTOR ",
+      "price":"1559.000" ,
+      "image" : "https://zupimages.net/up/22/23/6dva.jpeg" ,
+      "id": 3
+    },
+    {
+      "title": "VIDÉO PROJECTEUR XIAOMI MI SMART PROJECTOR ",
+      "price":"1559.000" ,
+      "image" : "https://zupimages.net/up/22/23/6dva.jpeg" ,
+      "id": 4
+    },
+    {
+      "title": "VIDÉO PROJECTEUR XIAOMI MI SMART PROJECTOR ",
+      "price":"1559.000" ,
+      "image" : "https://zupimages.net/up/22/23/6dva.jpeg" ,
+      "id": 2
+    }
+  ]
+}
